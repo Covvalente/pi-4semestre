@@ -1,4 +1,4 @@
-##🎨Revisite o protótipo do projeto 
+## 🎨Revisite o protótipo do projeto 
 https://www.figma.com/file/Kims46YiVLI2MzZDUy7cwV/Pi?type=design&node-id=70%3A22&mode=design&t=HRDXDwH1ZhaoEHbp-1
 
 ## 📖 Sobre
