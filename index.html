@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto&display=swap">
+
+    <title>Login Controle Financeiro</title>
+    <!-- Adicione seus scripts aqui -->
+    <script src="https://www.gstatic.com/firebasejs/9.20.0/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.20.0/firebase-auth-compat.js"></script>
+    <script src="firebase-init.js"></script>
+    <script src="index.js"></script>
+    <!-- Adicione seu arquivo CSS aqui -->
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+    <header>
+
+        <img src="/Controle-Financeiro/pages/img/dino logos.png" alt="logo" class="logo">
+
+    </header>
+
+    <form>
+        <h1>login</h1>
+        <div>
+            <label for="email">Email</label>
+        </div>
+        <input type="email" name="email" id="email" onchange="onChangeEmail()" placeholder="seu@email.com">
+        <div class="error" id="email-required-error">Email é obrigatório</div>
+        <div class="error" id="email-invalid-error">Email é inválido</div>
+        <div>
+            <div>
+                <label for="password">Senha</label>
+            </div>
+            <input type="password" name="password" id="password" onchange="onChangePassword()" placeholder="Senha">
+            <div class="error" id="password-required-error">Senha é obrigatória</div>
+        </div>
+        <div>
+            <button type="button" class="clear" id="recover-password-button" onclick="recoverPassword()"
+                disabled>Recuperar senha</button>
+        </div>
+        <div>
+            <button type="button" class="solid" id="login-button" disabled onclick="login()">Entrar</button>
+        </div>
+        <div>
+            <button type="button" class="outline" onclick="register()">Registrar</button>
+        </div>
+    </form>
+</body>
+
+</html>

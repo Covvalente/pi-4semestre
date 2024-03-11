@@ -1,0 +1,14 @@
+{
+  "name": "Controle-Financeiro",
+  "version": "1.0.0",
+  "description": "Descrição do seu projeto",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --open=index.html"
+  },
+  "author": "dinoDev <corretorzed@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}

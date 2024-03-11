@@ -1,0 +1,134 @@
+/* Define a fonte e o tamanho do texto do rótulo */
+header {
+    font-family: 'Roboto', sans-serif; /* Fonte Roboto */
+    position: relative; /* Adicionado para posicionar a logo corretamente */
+}
+
+.logo{
+    /* coloque essa logo no canto superior esquerdo  da página*/
+     position: absolute;
+      
+        top: -20px;
+     left: 0;
+     margin: 10px;
+    width: 300px;
+  
+
+    
+ }
+ 
+
+body {	
+		background-color: #f2f2f2; /* Cor de fundo cinza claro */
+		font-family: 'Roboto', sans-serif; /* Fonte Roboto */
+}
+
+label {
+    font-size: 16px; /* Aumentei um pouco o tamanho da fonte dos labels */
+}
+
+/* Define a largura máxima do formulário */
+form {
+	
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #f7f5f5;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+	margin-top: 50px; /* Aumentei um pouco o espaço superior */
+
+	
+}
+
+/* Define o espaçamento entre os elementos do formulário */
+form div {
+    margin-bottom: 15px; /* Aumentei um pouco o espaçamento */
+	width: 100%;
+
+}
+
+/* Define a cor de fundo e a borda dos campos de entrada */
+input[type="email"],
+input[type="password"] {
+    background-color: #f2f2f2; /* Cor de fundo cinza claro */
+    border: none;
+    border-radius: 4px;
+    padding: 12px 24px; /* Aumentei um pouco o preenchimento */
+    width: 100%;
+	box-sizing: border-box;
+
+}
+
+/* Define o estilo dos botões */
+button {
+    background-color: #02FFC2; /* Cor verde escura para os botões */
+    border: 10px;
+    color: white;
+    padding: 12px 24px; /* Aumentei um pouco o preenchimento */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+	width: 100%
+	
+}
+
+button:active {
+    opacity: 0.8;
+}
+
+button[disabled] {
+    opacity: 0.7;
+}
+
+/* Define o erro ao não preencher o campo do Email e senha */
+.error {
+    color: white;
+    background-color: #e74c3c; /* Cor vermelha para mensagens de erro */
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 14px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    display: none;
+    text-align: center;
+}
+
+/* Estiliza os botões */
+.clear {
+    background-color:lightgreen	; /* Cor azul claro */
+}
+
+.solid {
+    background-color: lightskyblue; /* Cor verde escura */
+}
+
+.autline {
+    background-color: #008CBA; /* Cor azul */
+}
+
+/* Altera a cor de fundo do botão quando o cursor está sobre ele */
+button:hover {
+    background-color:paleturquoise; /* Cor verde um pouco mais clara */
+}
+
+/* Estilos para celular */
+@media (max-width: 480px) {
+    form {
+        width: 80%;
+    }
+
+    header {
+        font-size: 24px; /* Reduzi um pouco o tamanho do cabeçalho para telas menores */
+        margin-top: 20px; /* Aumentei um pouco o espaço superior */
+    }
+}
