@@ -4,7 +4,7 @@ https://www.figma.com/file/Kims46YiVLI2MzZDUy7cwV/Pi?type=design&node-id=70%3A22
 ## 📖 Sobre
 O **DinoSaves** é um aplicativo concebido para que as pessoas possam gerenciar suas finanças pessoais de forma eficaz. Ele permite que os usuários visualizem e organizem suas despesas pessoais ou empresariais de maneira manual. A ideia por trás do projeto é fornecer uma plataforma onde os usuários possam acompanhar e controlar suas finanças com facilidade tudo isso de forma gratuita, aplicando os conceitos estudados durante o projeto integrador da faculdade.
 
-## 📹Video de aprensentação è só baixar :https://github.com/Covvalente/pi-4semestre/blob/master/video%20de%20apresenta%C3%A7%C3%A3o%20do%20projeto.mkv
+## 📹Video de aprensentação clique no link e depois em view raw :https://github.com/Covvalente/pi-4semestre/blob/master/video%20de%20apresenta%C3%A7%C3%A3o%20do%20projeto.mkv
 
 ## 🚀 Tecnologias utilizadas
 
