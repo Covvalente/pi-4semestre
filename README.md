@@ -2,7 +2,7 @@
 https://www.figma.com/file/Kims46YiVLI2MzZDUy7cwV/Pi?type=design&node-id=70%3A22&mode=design&t=HRDXDwH1ZhaoEHbp-1
 
 ## 📖 Sobre
-O **Controle Financeiro** é um aplicativo concebido para que as pessoas possam gerenciar suas finanças pessoais de forma eficaz. Ele permite que os usuários visualizem e organizem suas despesas pessoais ou empresariais de maneira manual. A ideia por trás do projeto é fornecer uma plataforma onde os usuários possam acompanhar e controlar suas finanças com facilidade tudo isso de forma gratuita, aplicando os conceitos estudados durante o projeto integrador da faculdade.
+O **DinoSaves** é um aplicativo concebido para que as pessoas possam gerenciar suas finanças pessoais de forma eficaz. Ele permite que os usuários visualizem e organizem suas despesas pessoais ou empresariais de maneira manual. A ideia por trás do projeto é fornecer uma plataforma onde os usuários possam acompanhar e controlar suas finanças com facilidade tudo isso de forma gratuita, aplicando os conceitos estudados durante o projeto integrador da faculdade.
 
 
 ## 🚀 Tecnologias utilizadas
@@ -29,11 +29,11 @@ Banco de Dados
 
 * **Grupo 25**
 
-LUCAS DOS SANTOS SOUZA
-JOSIVALDO JOSE DOS SANTOS
-WANDERSON MOUTINHO FIGUEIROA
-MATEUS RODRIGUES DE OLIVEIRA
-MARCOS VINICIUS DO CARMO NICACIO MARCOS
+- LUCAS DOS SANTOS SOUZA
+- JOSIVALDO JOSE DOS SANTOS
+- WANDERSON MOUTINHO FIGUEIROA
+- MATEUS RODRIGUES DE OLIVEIRA
+- MARCOS VINICIUS DO CARMO NICACIO MARCOS
 
 ## 💾 Como baixar o projeto
 
