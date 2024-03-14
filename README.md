@@ -47,4 +47,4 @@ $ yarn install
 
 $ yarn start
  ```
-##🖥️ Ou se prefirir acesse o projeto já hospedado em : https://pi-4semestre.vercel.app
+## 🖥️ Ou se prefirir acesse o projeto já hospedado em : https://pi-4semestre.vercel.app
